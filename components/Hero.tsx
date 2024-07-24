@@ -60,9 +60,9 @@ const Hero = () => {
             Hi! We&apos;re MultiDexters, a students-lead MultiNational Company.
           </p>
 
-          <a href="#about">
+          <a href="https://shahzebmubashar.netlify.app/">
             <MagicButton
-              title="Show our work"
+              title="Meet Our C.E.O"
               icon={<FaLocationArrow />}
               position="right"
             />
